@@ -1,0 +1,16 @@
+PODS:
+  - PNLoader (1.0.0)
+
+DEPENDENCIES:
+  - PNLoader (from `../PNLoader/`)
+
+EXTERNAL SOURCES:
+  PNLoader:
+    :path: ../PNLoader/
+
+SPEC CHECKSUMS:
+  PNLoader: d725fe2f9d83eae2a50f26a642dca917f49a47bd
+
+PODFILE CHECKSUM: 8637ee84ecdf702b3ee6d666e697db5993c13d22
+
+COCOAPODS: 1.4.0

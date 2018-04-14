@@ -1,0 +1,6 @@
+framework module PNLoader {
+  umbrella header "PNLoader-umbrella.h"
+
+  export *
+  module * { export * }
+}
